@@ -1,5 +1,14 @@
+## Descrição
+Front End da aplicação da Semana Oministack 9, onde foi implementado AirCnC, onde empresas podem anunciar os seus espaços para que desenvolvedores possam utilizar as suas intalações durante as suas atividades.
 
-Front End da aplicação da Semana Oministack 9 
+[Preview](https://i.imgur.com/ICG38Ff.mp4)
+
+### Requisitos
+
+- Node.js v10+
+- MongoDB rodando localmente ou uma instância do Docker
+- Postgres rodando localmente ou uma instância do Docker
+- Yarn ou NPM
 
 ## Scripts
 
