@@ -7,7 +7,6 @@ Front End da aplicação da Semana Oministack 9, onde foi implementado AirCnC, l
 
 - Node.js v10+
 - MongoDB rodando localmente ou uma instância do Docker
-- Postgres rodando localmente ou uma instância do Docker
 - Yarn ou NPM
 
 ## Scripts
