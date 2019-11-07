@@ -1,5 +1,5 @@
 ## Descrição
-Front End da aplicação da Semana Oministack 9, onde foi implementado AirCnC, onde empresas podem anunciar os seus espaços para que desenvolvedores possam utilizar as suas intalações durante as suas atividades.
+Front End da aplicação da Semana Oministack 9, onde foi implementado AirCnC, local onde empresas podem anunciar os seus espaços para que desenvolvedores possam utilizar as suas instalações durante as suas atividades.
 
 [Preview](https://i.imgur.com/ICG38Ff.mp4)
 
